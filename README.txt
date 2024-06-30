@@ -3,6 +3,14 @@ BASIC INFORMATIONS
 ========================
 Author: Joanna Szczublińska
 
+The purpose of the program:
+At the beginning some Users, Channels and Videos are created then randomly chosen Videos are added to list to watched by User.
+The User can change the Icon and watch Stream (from Channel) or Movie(from Video) at one time.
+If Stream or Movie will end the new one will be load from the list.
+If any new Movie is added to the database or a stream starts then is added to the User's list.
+The User can subsribe or not and this has impact on watched Videos.
+Additionaly information can be saved and loaded to the system.
+
 Short program instructions:
 1.To start a simulation you have to first press button "CREATION" (if you have already saved verion you can just click "LOAD").
 2.To stop adding new videos or streams to channel and updating user you have to click "STOP" then the button changes the
